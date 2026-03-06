@@ -34,7 +34,7 @@ The Bois
 * Lisha Angral ([https://github.com/lishaangral](https://github.com/lishaangral)) - UI Design + Frontend
 * Anshul Dhoptey ([https://github.com/Spectre-anshul](https://github.com/Spectre-anshul)) - Computer Vision
 
-### Your Approach:
+### Our Approach:
 
 We recognized a critical gap in healthcare accessibility: while physiotherapy is essential for recovery, many patients struggle with limited access to professionals, high costs, and difficulty maintaining proper form without supervision. We aimed to leverage AI to democratize access to quality rehabilitation.
 
